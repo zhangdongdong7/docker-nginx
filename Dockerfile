@@ -1,5 +1,4 @@
 FROM debian:buster-slim
-
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
 
 ENV NGINX_VERSION   1.19.2
